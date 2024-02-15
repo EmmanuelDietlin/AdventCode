@@ -1,0 +1,16 @@
+﻿  AdventCode_J13.cpp
+D:\AdventCode\AdventCode_J13\AdventCode_J13\AdventCode_J13.cpp(62,6): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+D:\AdventCode\AdventCode_J13\AdventCode_J13\AdventCode_J13.cpp(261,5): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+D:\AdventCode\AdventCode_J13\AdventCode_J13\AdventCode_J13.cpp(270,41): warning C4267: '=' : conversion de 'size_t' en '_Ty2', perte possible de données
+          with
+          [
+              _Ty2=int
+          ]
+D:\AdventCode\AdventCode_J13\AdventCode_J13\AdventCode_J13.cpp(277,20): warning C4267: 'initialisation' : conversion de 'size_t' en 'int', perte possible de données
+D:\AdventCode\AdventCode_J13\AdventCode_J13\AdventCode_J13.cpp(335,46): warning C4267: '=' : conversion de 'size_t' en '_Ty2', perte possible de données
+          with
+          [
+              _Ty2=int
+          ]
+D:\AdventCode\AdventCode_J13\AdventCode_J13\AdventCode_J13.cpp(340,24): warning C4267: 'initialisation' : conversion de 'size_t' en 'int', perte possible de données
+  AdventCode_J13.vcxproj -> D:\AdventCode\AdventCode_J13\x64\Debug\AdventCode_J13.exe

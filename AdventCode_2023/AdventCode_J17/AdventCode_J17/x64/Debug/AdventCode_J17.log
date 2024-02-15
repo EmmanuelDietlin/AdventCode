@@ -1,0 +1,20 @@
+﻿  AdventCode_J17.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\utility(247,16): warning C4267: 'initialisation' : conversion de 'size_t' en '_Ty1', perte possible de données
+          with
+          [
+              _Ty1=int
+          ]
+D:\AdventCode\AdventCode_J17\AdventCode_J17\AdventCode_J17.cpp(40,36): message : voir la référence à l'instanciation de la fonction modèle 'std::pair<int,int>::pair<unsigned __int64,unsigned __int64,0>(_Other1 &&,_Other2 &&) noexcept' en cours de compilation
+          with
+          [
+              _Other1=unsigned __int64,
+              _Other2=unsigned __int64
+          ]
+D:\AdventCode\AdventCode_J17\AdventCode_J17\AdventCode_J17.cpp(40,36): message : voir la première référence à « std::pair<int,int>::pair » dans « main »
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\utility(247,54): warning C4267: 'initialisation' : conversion de 'size_t' en '_Ty2', perte possible de données
+          with
+          [
+              _Ty2=int
+          ]
+D:\AdventCode\AdventCode_J17\AdventCode_J17\AdventCode_J17.cpp(22): warning C4715: 'parent_to_point_direction' : les chemins de contrôle ne retournent pas tous une valeur
+  AdventCode_J17.vcxproj -> D:\AdventCode\AdventCode_J17\x64\Debug\AdventCode_J17.exe

@@ -1,0 +1,7 @@
+﻿  AdventCode_J9.cpp
+D:\C#\AdventCode_J9\AdventCode_J9\AdventCode_J9.cpp(60,35): warning C4244: '=' : conversion de '_Ty' en 'int', perte possible de données
+          with
+          [
+              _Ty=__int64
+          ]
+  AdventCode_J9.vcxproj -> D:\C#\AdventCode_J9\x64\Debug\AdventCode_J9.exe

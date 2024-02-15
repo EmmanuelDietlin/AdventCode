@@ -1,0 +1,4 @@
+﻿  AdventCode_J7.cpp
+D:\C#\AdventCode_J7\AdventCode_J7\AdventCode_J7.cpp(163,14): warning C4267: 'initialisation' : conversion de 'size_t' en 'int', perte possible de données
+D:\C#\AdventCode_J7\AdventCode_J7\AdventCode_J7.cpp(176,18): warning C4267: 'initialisation' : conversion de 'size_t' en 'int', perte possible de données
+  AdventCode_J7.vcxproj -> D:\C#\AdventCode_J7\x64\Debug\AdventCode_J7.exe

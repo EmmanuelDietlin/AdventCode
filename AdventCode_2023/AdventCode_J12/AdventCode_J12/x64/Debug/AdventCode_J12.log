@@ -1,0 +1,3 @@
+﻿  AdventCode_J12.cpp
+D:\AdventCode\AdventCode_J12\AdventCode_J12\AdventCode_J12.cpp(350,19): warning C4267: 'initialisation' : conversion de 'size_t' en 'int', perte possible de données
+  AdventCode_J12.vcxproj -> D:\AdventCode\AdventCode_J12\x64\Debug\AdventCode_J12.exe

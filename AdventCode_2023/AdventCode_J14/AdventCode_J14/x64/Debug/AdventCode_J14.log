@@ -1,0 +1,6 @@
+﻿  AdventCode_J14.cpp
+D:\AdventCode\AdventCode_J14\AdventCode_J14\AdventCode_J14.cpp(58,37): warning C4267: 'initialisation' : conversion de 'size_t' en 'int', perte possible de données
+D:\AdventCode\AdventCode_J14\AdventCode_J14\AdventCode_J14.cpp(147,24): warning C4267: 'initialisation' : conversion de 'size_t' en 'int', perte possible de données
+D:\AdventCode\AdventCode_J14\AdventCode_J14\AdventCode_J14.cpp(177,24): warning C4267: 'initialisation' : conversion de 'size_t' en 'int', perte possible de données
+D:\AdventCode\AdventCode_J14\AdventCode_J14\AdventCode_J14.cpp(210,44): warning C4267: '+=' : conversion de 'size_t' en 'int', perte possible de données
+  AdventCode_J14.vcxproj -> D:\AdventCode\AdventCode_J14\x64\Debug\AdventCode_J14.exe

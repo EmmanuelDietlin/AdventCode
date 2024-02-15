@@ -1,0 +1,4 @@
+﻿  AdventCode_J15.cpp
+D:\AdventCode\AdventCode_J15\AdventCode_J15\AdventCode_J15.cpp(11,10): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+D:\AdventCode\AdventCode_J15\AdventCode_J15\AdventCode_J15.cpp(53,27): warning C4244: 'initialisation' : conversion de '__int64' en 'int', perte possible de données
+  AdventCode_J15.vcxproj -> D:\AdventCode\AdventCode_J15\x64\Debug\AdventCode_J15.exe

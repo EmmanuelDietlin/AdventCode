@@ -1,0 +1,18 @@
+﻿  AdventCode_J23.cpp
+D:\AdventCode\AdventCode_J23\AdventCode_J23\AdventCode_J23.cpp(37,36): warning C4244: '+=' : conversion de '__int64' en 'int', perte possible de données
+D:\AdventCode\AdventCode_J23\AdventCode_J23\AdventCode_J23.cpp(41,35): warning C4267: '=' : conversion de 'size_t' en '_Ty1', perte possible de données
+          with
+          [
+              _Ty1=int
+          ]
+D:\AdventCode\AdventCode_J23\AdventCode_J23\AdventCode_J23.cpp(42,51): warning C4267: '=' : conversion de 'size_t' en '_Ty1', perte possible de données
+          with
+          [
+              _Ty1=int
+          ]
+D:\AdventCode\AdventCode_J23\AdventCode_J23\AdventCode_J23.cpp(43,34): warning C4267: '=' : conversion de 'size_t' en '_Ty2', perte possible de données
+          with
+          [
+              _Ty2=int
+          ]
+  AdventCode_J23.vcxproj -> D:\AdventCode\AdventCode_J23\x64\Debug\AdventCode_J23.exe

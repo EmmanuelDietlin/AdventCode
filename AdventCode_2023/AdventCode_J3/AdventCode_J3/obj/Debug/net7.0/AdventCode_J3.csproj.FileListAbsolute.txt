@@ -1,0 +1,14 @@
+D:\C#\AdventCode_J3\AdventCode_J3\bin\Debug\net7.0\AdventCode_J3.exe
+D:\C#\AdventCode_J3\AdventCode_J3\bin\Debug\net7.0\AdventCode_J3.deps.json
+D:\C#\AdventCode_J3\AdventCode_J3\bin\Debug\net7.0\AdventCode_J3.runtimeconfig.json
+D:\C#\AdventCode_J3\AdventCode_J3\bin\Debug\net7.0\AdventCode_J3.dll
+D:\C#\AdventCode_J3\AdventCode_J3\bin\Debug\net7.0\AdventCode_J3.pdb
+D:\C#\AdventCode_J3\AdventCode_J3\obj\Debug\net7.0\AdventCode_J3.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\AdventCode_J3\AdventCode_J3\obj\Debug\net7.0\AdventCode_J3.AssemblyInfoInputs.cache
+D:\C#\AdventCode_J3\AdventCode_J3\obj\Debug\net7.0\AdventCode_J3.AssemblyInfo.cs
+D:\C#\AdventCode_J3\AdventCode_J3\obj\Debug\net7.0\AdventCode_J3.csproj.CoreCompileInputs.cache
+D:\C#\AdventCode_J3\AdventCode_J3\obj\Debug\net7.0\AdventCode_J3.dll
+D:\C#\AdventCode_J3\AdventCode_J3\obj\Debug\net7.0\refint\AdventCode_J3.dll
+D:\C#\AdventCode_J3\AdventCode_J3\obj\Debug\net7.0\AdventCode_J3.pdb
+D:\C#\AdventCode_J3\AdventCode_J3\obj\Debug\net7.0\AdventCode_J3.genruntimeconfig.cache
+D:\C#\AdventCode_J3\AdventCode_J3\obj\Debug\net7.0\ref\AdventCode_J3.dll

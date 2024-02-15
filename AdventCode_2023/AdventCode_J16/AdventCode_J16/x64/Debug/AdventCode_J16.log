@@ -1,0 +1,26 @@
+﻿  AdventCode_J16.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\utility(247,16): warning C4267: 'initialisation' : conversion de 'size_t' en '_Ty1', perte possible de données
+          with
+          [
+              _Ty1=int
+          ]
+D:\AdventCode\AdventCode_J16\AdventCode_J16\AdventCode_J16.cpp(62,43): message : voir la référence à l'instanciation de la fonction modèle 'std::pair<int,int>::pair<unsigned __int64,int&,0>(_Other1 &&,_Other2) noexcept' en cours de compilation
+          with
+          [
+              _Other1=unsigned __int64,
+              _Other2=int &
+          ]
+D:\AdventCode\AdventCode_J16\AdventCode_J16\AdventCode_J16.cpp(62,35): message : voir la première référence à « std::pair<int,int>::pair » dans « main »
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\utility(247,54): warning C4267: 'initialisation' : conversion de 'size_t' en '_Ty2', perte possible de données
+          with
+          [
+              _Ty2=int
+          ]
+D:\AdventCode\AdventCode_J16\AdventCode_J16\AdventCode_J16.cpp(269,44): message : voir la référence à l'instanciation de la fonction modèle 'std::pair<int,int>::pair<int&,unsigned __int64,0>(_Other1,_Other2 &&) noexcept' en cours de compilation
+          with
+          [
+              _Other1=int &,
+              _Other2=unsigned __int64
+          ]
+D:\AdventCode\AdventCode_J16\AdventCode_J16\AdventCode_J16.cpp(269,36): message : voir la première référence à « std::pair<int,int>::pair » dans « main »
+  AdventCode_J16.vcxproj -> D:\AdventCode\AdventCode_J16\x64\Debug\AdventCode_J16.exe

@@ -1,0 +1,14 @@
+D:\C#\AdventCode_J4\AdventCode_J4\bin\Debug\net7.0\AdventCode_J4.exe
+D:\C#\AdventCode_J4\AdventCode_J4\bin\Debug\net7.0\AdventCode_J4.deps.json
+D:\C#\AdventCode_J4\AdventCode_J4\bin\Debug\net7.0\AdventCode_J4.runtimeconfig.json
+D:\C#\AdventCode_J4\AdventCode_J4\bin\Debug\net7.0\AdventCode_J4.dll
+D:\C#\AdventCode_J4\AdventCode_J4\bin\Debug\net7.0\AdventCode_J4.pdb
+D:\C#\AdventCode_J4\AdventCode_J4\obj\Debug\net7.0\AdventCode_J4.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\AdventCode_J4\AdventCode_J4\obj\Debug\net7.0\AdventCode_J4.AssemblyInfoInputs.cache
+D:\C#\AdventCode_J4\AdventCode_J4\obj\Debug\net7.0\AdventCode_J4.AssemblyInfo.cs
+D:\C#\AdventCode_J4\AdventCode_J4\obj\Debug\net7.0\AdventCode_J4.csproj.CoreCompileInputs.cache
+D:\C#\AdventCode_J4\AdventCode_J4\obj\Debug\net7.0\AdventCode_J4.dll
+D:\C#\AdventCode_J4\AdventCode_J4\obj\Debug\net7.0\refint\AdventCode_J4.dll
+D:\C#\AdventCode_J4\AdventCode_J4\obj\Debug\net7.0\AdventCode_J4.pdb
+D:\C#\AdventCode_J4\AdventCode_J4\obj\Debug\net7.0\AdventCode_J4.genruntimeconfig.cache
+D:\C#\AdventCode_J4\AdventCode_J4\obj\Debug\net7.0\ref\AdventCode_J4.dll

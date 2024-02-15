@@ -1,0 +1,14 @@
+D:\C#\AdventCode2023\AdventCode2023\bin\Debug\net7.0\AdventCode2023.exe
+D:\C#\AdventCode2023\AdventCode2023\bin\Debug\net7.0\AdventCode2023.deps.json
+D:\C#\AdventCode2023\AdventCode2023\bin\Debug\net7.0\AdventCode2023.runtimeconfig.json
+D:\C#\AdventCode2023\AdventCode2023\bin\Debug\net7.0\AdventCode2023.dll
+D:\C#\AdventCode2023\AdventCode2023\bin\Debug\net7.0\AdventCode2023.pdb
+D:\C#\AdventCode2023\AdventCode2023\obj\Debug\net7.0\AdventCode2023.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\AdventCode2023\AdventCode2023\obj\Debug\net7.0\AdventCode2023.AssemblyInfoInputs.cache
+D:\C#\AdventCode2023\AdventCode2023\obj\Debug\net7.0\AdventCode2023.AssemblyInfo.cs
+D:\C#\AdventCode2023\AdventCode2023\obj\Debug\net7.0\AdventCode2023.csproj.CoreCompileInputs.cache
+D:\C#\AdventCode2023\AdventCode2023\obj\Debug\net7.0\AdventCode2023.dll
+D:\C#\AdventCode2023\AdventCode2023\obj\Debug\net7.0\refint\AdventCode2023.dll
+D:\C#\AdventCode2023\AdventCode2023\obj\Debug\net7.0\AdventCode2023.pdb
+D:\C#\AdventCode2023\AdventCode2023\obj\Debug\net7.0\AdventCode2023.genruntimeconfig.cache
+D:\C#\AdventCode2023\AdventCode2023\obj\Debug\net7.0\ref\AdventCode2023.dll

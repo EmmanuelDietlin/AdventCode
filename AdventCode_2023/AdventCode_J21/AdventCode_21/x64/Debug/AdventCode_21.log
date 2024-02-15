@@ -1,0 +1,14 @@
+﻿  AdventCode_21.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\utility(247,16): warning C4267: 'initialisation' : conversion de 'size_t' en '_Ty1', perte possible de données
+          with
+          [
+              _Ty1=int
+          ]
+D:\AdventCode\AdventCode_21\AdventCode_21\AdventCode_21.cpp(36,30): message : voir la référence à l'instanciation de la fonction modèle 'std::pair<int,int>::pair<unsigned __int64,int&,0>(_Other1 &&,_Other2) noexcept' en cours de compilation
+          with
+          [
+              _Other1=unsigned __int64,
+              _Other2=int &
+          ]
+D:\AdventCode\AdventCode_21\AdventCode_21\AdventCode_21.cpp(36,29): message : voir la première référence à « std::pair<int,int>::pair » dans « main »
+  AdventCode_21.vcxproj -> D:\AdventCode\AdventCode_21\x64\Debug\AdventCode_21.exe
