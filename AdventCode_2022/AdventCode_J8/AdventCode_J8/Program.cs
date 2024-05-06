@@ -70,6 +70,55 @@ foreach (var tree in elems)
 }
 Console.WriteLine("Part one : visible = {0}", count);
 
+int maxScenic = 0;
+foreach (var tree in elems)
+{
+    int x = tree.Key.Item2;
+    int y = tree.Key.Item1;
+    int[] scores = { 0, 0, 0, 0 };
+    int i = x-1, j = x+1;
+    for (; i > 0; i--)
+    {
+        Tuple<int, int> t = new(y, i);
+        scores[0]++;
+        //Si on rencontre un arbre de taille égale ou supérieure, on s'arrête
+        if (elems[t].Size >= tree.Value.Size) break;
+    }
+    for (; j < patch[0].Length - 1; j++)
+    {
+        Tuple<int, int> t = new(y, j);
+        scores[1]++;
+        if (elems[t].Size >= tree.Value.Size) break;
+    }
+    //On a atteint la bordure du rectangle sans rencontrer d'arbre bloquant, donc on voit l'arbre de la bordure
+    if (i == 0) scores[0]++;
+    if (j == patch[0].Length - 1) scores[1]++;
+
+    i = y-1;
+    j = y+1;
+    for (; i > 0; i--)
+    {
+        Tuple<int, int> t = new(i, x);
+        scores[2]++;
+        //Si on rencontre un arbre de taille égale ou supérieure, on s'arrête
+        if (elems[t].Size >= tree.Value.Size) break;
+    }
+    for (; j < patch.Count - 1; j++)
+    {
+        Tuple<int, int> t = new(j, x);
+        scores[3]++;
+        if (elems[t].Size >= tree.Value.Size) break;
+    }
+    //On a atteint la bordure du rectangle sans rencontrer d'arbre bloquant, donc on voit l'arbre de la bordure
+    if (i == 0) scores[2]++;
+    if (j == patch.Count - 1) scores[3]++;
+
+
+    int sc = scores[0] * scores[1] * scores[2] * scores[3];
+    if (sc > maxScenic) maxScenic = sc;
+}
+Console.WriteLine("Part two : scenic = {0}", maxScenic);
+
 
 
 class PatchElem
